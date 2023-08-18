@@ -25,18 +25,18 @@ To run the Dad Joke Generator locally on your machine, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/dad-joke-generator.git
+   git clone https://github.com/Mr-AbdulMalik/Joke-Generator-using-RESTAPI.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd dad-joke-generator
+   cd Joke-Generator-using-RESTAPI
    ```
 
 3. Open the `index.html` file in your preferred web browser.
 
-4. Click the "Get Joke" button to generate a random dad joke and have a laugh!
+4. Click the "TELL ME A JOKE" button to generate a random dad joke and have a laugh!
 
 ## Contributing
 
